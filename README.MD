@@ -8,7 +8,7 @@ vue-swipe is a touch slider for vue.js.
 $ npm install vue-swipe
 ```
 
-# Install
+# Import
 
 ## Import using module
 Import components to your project:
